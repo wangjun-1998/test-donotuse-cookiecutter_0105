@@ -288,5 +288,4 @@ if __name__ == '__main__':
     # Display the results
     print("Plotting the results")
     plot(results)
-    print('hello,world')
-    print("为什么没有效果呢")
+    print('today is 10.29')
