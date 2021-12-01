@@ -289,3 +289,4 @@ if __name__ == '__main__':
     print("Plotting the results")
     plot(results)
     print('today is 12.01')
+    print(777)
