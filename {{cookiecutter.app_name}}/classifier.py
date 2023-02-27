@@ -288,5 +288,5 @@ if __name__ == '__main__':
     # Display the results
     print("Plotting the results")
     plot(results)
-    print('今天是2023.02.07')
-    print('AMG-GTR')
+    print('今天是2023.02.27')
+    print('BMW-M8')
