@@ -288,5 +288,5 @@ if __name__ == '__main__':
     # Display the results
     print("Plotting the results")
     plot(results)
-    print('今天是2023.09.21')
-    print('vivo-s90')
+    print('今天是2023.10.10')
+    print('huwwei-mate8')
